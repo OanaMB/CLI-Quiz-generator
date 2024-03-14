@@ -1,5 +1,4 @@
-# CLI-Quiz-generator
-
+    CLI-Quiz-generator
     Acest program implementează un generator de chestionare, utilizatorii acestuia
 având posibilitatea de a adăuga întrebări cu alegere simplă sau multiplă, de a crea
 chestionare, a le completa sau de a le șterge. Clasele disponibile în program sunt:
